@@ -5,7 +5,7 @@
 
 - 🔭 Atualmenento estou criando uma aplicação com Angular 14 e Firebase [Angular-Firebase](https://github.com/MatheuBentoDePereira/angular14-firebase)
 
-- 🌱 Atualmente estou aprendendo **Firebase, Rxjs, Cypress, Jest**
+- 🌱 Atualmente estou aprendendo **Firebase, Ngrx, Cypress, Jest**
 
 - 📄 Meu perfil no Linkedin [https://www.linkedin.com/in/matheus-bento-de-pereira-82287618b/](https://www.linkedin.com/in/matheus-bento-de-pereira-82287618b/)
 
