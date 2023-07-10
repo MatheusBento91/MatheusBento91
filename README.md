@@ -1,13 +1,13 @@
 <h1 align="center">Welcome, I'm Matheus Bento de Pereira</h1>
 <h3 align="center">A senior front-end developer working with Angular</h3>
 
-- 👨‍💻 Current working at GFT inside the biggest an investment bank in Latin America [GFT](https://www.gft.com/br/pt/)
+- 👨‍💻 Working as an senior frontend developer at [GFT](https://www.gft.com/br/pt/) like outsourcing for [BTG Pactual](https://www.btgpactualdigital.com/)
 
-- 🔭 My own project for show some of my skills [Angular-Firebase](https://github.com/MatheuBentoDePereira/angular14-firebase)
+- 🔭 My own project to show some of my skills [Angular-Firebase](https://github.com/MatheuBentoDePereira/angular14-firebase)
 
 - 🌱 I'm learning more about ** Ngrx, Signals, Jest, Jasmine ** 
 
-- 📄 My profile in Linkedin [https://www.linkedin.com/in/matheus-bento-de-pereira-82287618b/](https://www.linkedin.com/in/matheus-bento-de-pereira-82287618b/)
+- 📄 Linkedin [https://www.linkedin.com/in/matheus-bento-de-pereira-developer/](https://www.linkedin.com/in/matheus-bento-de-pereira-developer/)
 
 - 💬 My e-mail is matheusbentodepereira@gmail.com
 
